@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+
+title: "Personality Dysfunction and ERP Modulation"
+
+authors:
+  - family-names: "Rabinovich"
+    given-names: "Ernest I."
+    orcid: "https://orcid.org/0009-0001-8300-4095"
+
+  - family-names: "Telesheva"
+    given-names: "Klavdiya Yu."
+    orcid: "https://orcid.org/0000-0001-5534-9320"
+
+  - family-names: "Samylkin"
+    given-names: "Denis V."
+    orcid: "https://orcid.org/0000-0001-8510-4308"
+
+  - family-names: "Chernorizov"
+    given-names: "Alexander M."
+    orcid: "https://orcid.org/0000-0001-5199-5050"
+
+version: "1.0.0"
+
+repository-code: "https://github.com/Ernest-e/PERSONALITY-DYSFUNCTION-AND-ERP-MODULATION"
